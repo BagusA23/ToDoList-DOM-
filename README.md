@@ -4,8 +4,8 @@
 
 Sebuah aplikasi To-Do List sederhana yang dibuat menggunakan JavaScript murni (vanilla JS) untuk mempraktikkan konsep dasar hingga mahir dari **Document Object Model (DOM)**. Proyek ini adalah hasil akhir dari serangkaian latihan terstruktur.
 
-![Demo Aplikasi To-Do List](gambar-demo.gif)
-*(Tips: Rekam layar aplikasimu menjadi GIF lalu ganti `gambar-demo.gif` dengan file GIF-mu agar lebih menarik!)*
+![Demo Aplikasi To-Do List](todo.gif)
+
 
 ---
 
