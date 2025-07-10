@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Latihan DOM - Tingkat 2</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        /* Class ini untuk latihan classList */
+        .text-sukses {
+            color: green;
+            font-weight: bold;
+        }
+        .highlight {
+            background-color: #fff3cd;
+            padding: 2px 5px;
+            border-radius: 4px;
+        }
+        li.selesai {
+            text-decoration: line-through;
+            color: #aaa;
+        }
+        button {
+            padding: 5px 10px;
+            margin-left: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1 id="judul-halaman">Selamat Datang</h1>
+    <p id="paragraf-pembuka">Ini adalah halaman untuk latihan manipulasi DOM tingkat menengah.</p>
+
+    <hr>
+
+    <h2>Ubah Atribut</h2>
+    <a id="link-eksternal" href="#">Ini link placeholder</a>
+    <br><br>
+    <img id="gambar-utama" src="https://via.placeholder.com/150/0000FF/FFFFFF?Text=Gambar+Biru" alt="Gambar Placeholder">
+
+    <hr>
+
+    <h2>Daftar Tugas</h2>
+    <ul id="daftar-tugas">
+        <li class="tugas">Mempelajari Materi Tingkat 2</li>
+        <li class="tugas">Menyiapkan file HTML</li>
+    </ul>
+
+    <div>
+        <input type="text" id="input-tugas-baru" placeholder="Ketik tugas baru...">
+        <button id="tombol-tambah">Tambah Tugas</button>
+    </div>
+    <script src="index.js"></script>
+</body>
+</html>
