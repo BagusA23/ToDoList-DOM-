@@ -34,7 +34,7 @@ Sebuah aplikasi To-Do List sederhana yang dibuat menggunakan JavaScript murni (v
 
 1.  Clone repositori ini ke komputermu.
     ```bash
-    git clone [https://github.com/](https://github.com/)[Bagusa23]/[ToDoList-DOM-].git
+    git clone https://github.com/BagusA23/ToDoList-DOM-.git
     ```
 2.  Masuk ke direktori proyek yang baru saja di-clone.
 3.  Buka file `latihan-final.html` langsung di browser favoritmu (Google Chrome, Firefox, dll.).
