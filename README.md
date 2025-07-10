@@ -34,7 +34,7 @@ Sebuah aplikasi To-Do List sederhana yang dibuat menggunakan JavaScript murni (v
 
 1.  Clone repositori ini ke komputermu.
     ```bash
-    git clone [https://github.com/](https://github.com/)[NAMA_PENGGUNA_GITHUB_KAMU]/[NAMA_REPOSITORI_KAMU].git
+    git clone [https://github.com/](https://github.com/)[Bagusa23]/[ToDoList-DOM-].git
     ```
 2.  Masuk ke direktori proyek yang baru saja di-clone.
 3.  Buka file `latihan-final.html` langsung di browser favoritmu (Google Chrome, Firefox, dll.).
@@ -62,6 +62,6 @@ Proyek ini adalah puncak dari proses belajar JavaScript DOM secara bertahap:
 
 ## 👨‍💻 Author
 
-Dibuat dengan penuh semangat oleh **[TULIS NAMAMU DI SINI]**.
+Dibuat dengan penuh semangat oleh **Bagus Ardiansyah**.
 
 Dipandu oleh Asisten AI Gemini dari Google.
